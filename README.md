@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
