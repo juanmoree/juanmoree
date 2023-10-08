@@ -46,6 +46,8 @@
 
 ###
 
+![snake animation](https://github.com/juanmoree/juanmoree/blob/output/github-contribution-grid-snake2.svg)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/juanmoree/juanmoree/output/snake.svg" alt="Snake animation" />
