@@ -49,5 +49,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/juanmoree/juanmoree/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Witless/juanmoree/blob/output/github-contribution-grid-snake.gif?raw=tru" alt="Snake animation" />
+
+![sneak](https://github.com/Witless/juanmoree/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 ###
