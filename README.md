@@ -41,13 +41,11 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif"  />
+
 </div>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/juanmoree/juanmoree/output/snake.svg" alt="Snake animation" />
 
 ###
