@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/juanmoree/juanmoree/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/juanmoree/juanmoree/blob/main/snake.yml" alt="Snake animation" />
 
 ###
