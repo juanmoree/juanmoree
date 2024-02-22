@@ -3,7 +3,7 @@
   📍Barcelona, Spain</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmoree&label=Profile%20views&color=0e75b6&style=flat" alt="juanmoree" /> </p>
 
-- 🔭 I’m currently working on [Dice Game API](https://github.com/juanmoree/Sprint_5/tree/main/T2)
+- 🔭 I’m currently working on [Semester Tests API](https://github.com/juanmoree/Semester-test)
 - 🌱 I’m currently learning **Mockito**
 - 💬 Ask me about **Java, Linux and Spring**
 - 📫 How to reach me **juanmoree@gmail.com**
